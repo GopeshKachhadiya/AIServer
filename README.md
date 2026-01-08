@@ -14,6 +14,19 @@ This lab is intentionally created to simulate a real-world AI deployment that ca
 
 ---
 
+## 🔗 Project Resources
+
+- **Lab Download:**  
+  https://mega.nz/file/ScJADJxK#iPdlMJEIiW0iQ1WLk5FSGp01QVLTaoGs8HieGqQayf4
+
+- **Documentation & Walkthrough:**  
+  https://mega.nz/file/WZ5l2IbS#uXPkqbM0pbJrpS6uf2FKWwVdM_CTwN7GUfmUrIF98ys
+
+- **VMware Setup & Usage Guide:**  
+  https://mega.nz/file/WEADkSZI#MvjDTY0KfGxxmyVezcEnAjdz48AQ1adV4XlW9lmhSVo
+
+---
+
 ## Objectives of the AI Server
 
 - Provide a local AI infrastructure for hands-on LLM security testing
